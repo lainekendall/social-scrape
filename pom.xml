@@ -1,0 +1,5 @@
+<dependency>
+            <groupId>es.uvigo.ei.sing</groupId>
+            <artifactId>jarvest</artifactId>
+            <version>0.1</version><!-- select your version -->
+        </dependency>
